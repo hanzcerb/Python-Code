@@ -24,4 +24,4 @@ This project demonstrates how to extract structured information from a collectio
 - `result.csv`: CSV file containing the extracted patent data.
 - `result.json`: JSON file with the same data.
 
-See [xml_text_mining.ipynb](XML%20Text%20Mining/xml_text_mining.ipynb) for
+See [xml_text_mining.ipynb](xml_text_mining.ipynb) for the full code and details.
